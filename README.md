@@ -37,7 +37,7 @@ El usuario puede seleccionar **dos ciudades** y un **mes específico** para visu
 
 - `comparar_clima()`: Función principal de interacción para comparar ciudades.
 - `crear_graficos(lista_ciudades, informacion, mes)`: Genera los gráficos comparativos.
--`calcular_metricas(df_ciudad)`: Función que los cálculos por ciudad segun el dataframe.
+- `calcular_metricas(df_ciudad)`: Función que los cálculos por ciudad segun el dataframe.
 
 ## 💡 Requisitos
 
